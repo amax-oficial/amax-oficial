@@ -49,5 +49,4 @@
 </p>
 
 <p align="center">
-  <strong>¡Gracias por visitar mi perfil! 😊</strong>
 </p>
