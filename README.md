@@ -15,8 +15,6 @@
 
 - 🎨 Me encanta diseñar interfaces de usuario intuitivas y atractivas.
 - 💡 Siempre estoy explorando nuevas ideas y técnicas para mejorar la experiencia de usuario.
-- 🧠 Actualmente, estoy aprendiendo a dominar **Flexbox** y **Grid** para construir layouts más complejos.
-- 🌐 Puedes visitar mi portafolio en [TuPortafolio.com](https://tuportafolio.com).
 
 ---
 
