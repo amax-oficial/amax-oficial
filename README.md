@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌟 Apasionado por crear sitios web elegantes y funcionales usando <strong>HTML</strong> y <strong>CSS</strong>. ¡La simplicidad es la máxima sofisticación!
+  Me gusta crear cosas
 </p>
 
 ---
