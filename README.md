@@ -13,8 +13,8 @@
 
 ## 🚀 Sobre mí
 
-- 🎨 Me encanta diseñar interfaces de usuario intuitivas y atractivas.
-- 💡 Siempre estoy explorando nuevas ideas y técnicas para mejorar la experiencia de usuario.
+- 💡 Me gusta crear proyectos y gestionarlos en temas de administracion. Actualmente tengo varios proyectos activos como BetterShop / GreatHost
+- 🎨 Estoy aprendiendo HTML y CSS
 
 ---
 
